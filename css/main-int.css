@@ -1,0 +1,13 @@
+h2{
+    color: aqua;
+    text-align: center;
+    background-color:red;
+}
+small{
+    display: block;
+    color: rosybrown;
+
+}
+h1{
+    display: inline;
+}
